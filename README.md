@@ -1,10 +1,14 @@
 <h1 align="center">Aetheria</h1>
 
+<div align="center">
+
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-8.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev)
 [![CSS3](https://img.shields.io/badge/CSS3-Vanilla-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![License](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
+
+</div>
 
 <br/>
 
@@ -51,4 +55,6 @@ npm run build
 
 ---
 
-Designed with a lot of coffee by Enzo
+<p align="center">
+  <sub>Designed with a lot of coffee by Enzo</sub>
+</p>
