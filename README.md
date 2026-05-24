@@ -1,4 +1,6 @@
+<div align="center">
 # Aetheria Focus - Task Dashboard
+</div>
 
 <div align="center">
 
